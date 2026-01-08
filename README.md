@@ -1,5 +1,4 @@
 # Ski-Resort-Simulation
-Ski lift simulation project for UVic CSC 446 (Simulations in Operations Research)
 
 The casy study for this particular simulation will be Mount Washington Ski Resort located on Vancouver Island.
 
